@@ -1,5 +1,5 @@
 # django stuff
-./TaskTracker/local_settings.py
+TaskTracker/local_settings.py
 *.sqlite3
 #data migrations
 */migrations/*.py
